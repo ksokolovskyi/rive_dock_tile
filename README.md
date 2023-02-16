@@ -1,5 +1,9 @@
 # Rive animation in macOS dock
 
+https://user-images.githubusercontent.com/30288967/219434221-040049f0-c527-4e16-8a97-964e5ab8dc9f.mov
+
+#
+
 This demo shows how to run [Rive](rive.app) animation in a macOS dock using Flutter and NSDockTile API.
 
 Please note that refreshing the NSDockTile with a 60FPS rate is working fine, but remember that this API was never designed for real-time rendering. This demo is highly CPU-consuming.
